@@ -1,5 +1,6 @@
 # mobileResume
 ---
+[DEMO](http://polly343900.github.io/mobileResume/index.html)
 1.zepto.fullpage.js
   使用了[颜海镜的zepto.fullpage.js](https://github.com/yanhaijing/zepto.fullpage)。
   但修改了部分代码。主要在touchend事件上，源代码：
